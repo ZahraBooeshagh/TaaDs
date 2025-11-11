@@ -1,0 +1,9 @@
+# editor files
+.idea/
+
+# cache files
+__pycache__/
+.DS_Store
+
+# virtual environment
+.venv/
